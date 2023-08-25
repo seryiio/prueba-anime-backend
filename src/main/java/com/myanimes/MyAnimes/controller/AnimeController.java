@@ -12,7 +12,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "https://myanime-frontend.netlify.app/")
+@CrossOrigin(origins = "https://myanime-frontend.netlify.app")
 public class AnimeController {
 
     @Autowired

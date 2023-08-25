@@ -15,7 +15,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "https://myanime-frontend.netlify.app/")
+@CrossOrigin(origins = "https://myanime-frontend.netlify.app")
 public class GenreController {
     @Autowired
     private GenreRepository genreRepository;
