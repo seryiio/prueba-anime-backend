@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.myanimes.MyAnimes.MyAnimesApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.298 s - in com.myanimes.MyAnimes.MyAnimesApplicationTests
